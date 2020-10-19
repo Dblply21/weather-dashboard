@@ -1,5 +1,5 @@
-About
-Weather Dashboard is an application that provides a single-day and five-day weather forecast based on the geographical location of the city that is requested. The user must input a city in order to receive weather updates.
+
+Weather Dashboard is an application that provides a single-day and five-day forecast based on geographical location is requested. A city must be searched to produce results.
 
 Published at
 https://dblply21.github.io/weather-dashboard/
