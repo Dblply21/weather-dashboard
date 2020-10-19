@@ -1,0 +1,39 @@
+* {
+    align-items: center;
+    text-align: center;
+}
+
+
+h1 {
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+button {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#city-container {
+    padding-top: 20px;
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    height: auto;
+    width: 100%;
+    align-items: center;
+}
